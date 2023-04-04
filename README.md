@@ -1,2 +1,2 @@
 # csv-to-kepler-map
-Python code to create an interactive map using Kepler.gl, pandas, and a CSV file of coordinates. Allows for filtering and styling of data points
+This repository contains code for creating a visualization of location data stored in a CSV file using the Kepler.gl library. The code reads in the CSV file, rounds the latitude and longitude values, and creates a map with colored points to represent the data. The resulting map is saved as an HTML file. This code is useful for anyone who wants to quickly and easily create a visual representation of location data for exploration or analysis.
